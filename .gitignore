@@ -21,3 +21,6 @@ __pycache__/
 *.pyc
 documents/
 .DS_Store
+
+# Other files
+README_original.md
