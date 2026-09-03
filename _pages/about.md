@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -39,6 +39,6 @@ My research focuses on **strong gravitational lensing**: using the distorted, mu
 
 Before joining UNIGE, I held postdoctoral positions at the [Max Planck Institute for Astrophysics (MPA)](https://www.mpa-garching.mpg.de/) and the [Technical University of Munich (TUM)](https://www.tum.de/) (2022–2025, including a first SNSF Postdoc.Mobility fellowship), and at the [Laboratory of Astrophysics (LASTRO), EPFL](https://www.epfl.ch/labs/lastro/) (2022–2023). I completed my PhD at LASTRO, EPFL in 2022, working on next-generation modeling techniques for strong gravitational lensing and measuring the Hubble constant, under the supervision of Prof. Frédéric Courbin (EPFL) and Dr. Jean-Luc Starck (CEA Saclay).
 
-I am a member of the [TDCOSMO](https://tdcosmo.github.io/), COSMOGRAIL, [Euclid](https://www.euclid-ec.org/), and LSST collaborations.
+I am a member of the [COSMOGRAIL](https://www.epfl.ch/labs/lastro/scientific-activities/cosmograil/), [TDCOSMO](https://tdcosmo.github.io/), [Euclid Consortium](https://www.euclid-ec.org/), and [SLICE](https://slicejwst.github.io/) project.
 
 Outside of research, I enjoy racket sports, team sports, and astro- and landscape photography.
