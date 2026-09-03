@@ -1,0 +1,219 @@
+# -----------------------------------------------------------------------------
+# CV data, rendered on the /cv/ page (_pages/cv.md) by the al_folio_cv plugin.
+# Edit this file directly to update your CV. Dates use YYYY-MM or YYYY.
+#
+# Note: your source CV PDF (documents/CV_Aymeric_Galan.pdf) includes a home
+# address and date of birth. Those were intentionally left out of the public
+# website below — most academics keep that off a public CV page. Add them
+# back here if you'd rather they be shown.
+# -----------------------------------------------------------------------------
+
+cv:
+  name: Aymeric Galan
+  label: Postdoctoral Researcher in Astrophysics
+  email: aymeric.galan@gmail.com
+  location: Geneva, Switzerland
+  image: ""
+  summary: Postdoctoral researcher working on strong gravitational lensing, dark matter, and cosmology, currently at the Department of Astronomy, University of Geneva (UNIGE) on an SNSF Mobility return grant.
+
+  social_networks:
+    - network: GitHub
+      username: aymgal
+    - network: ORCID
+      username: 0000-0003-2547-9815
+    # - network: LinkedIn
+    #   username: # TODO: add if you'd like it listed
+
+  sections:
+    Experience:
+      - company: Department of Astronomy, University of Geneva (UNIGE)
+        position: Postdoctoral Researcher
+        location: Geneva, Switzerland
+        start_date: 2026-02
+        end_date: present
+        summary: SNSF Mobility return grant.
+        highlights: []
+
+      - company: Max Planck Institute for Astrophysics (MPA)
+        position: Postdoc
+        location: Munich, Germany
+        start_date: 2025-04
+        end_date: 2025-11
+        summary: "Project: \"Studying galaxy evolution with Euclid strong lenses\". Advisor: Prof. Sherry Suyu (TUM, MPA)."
+        highlights: []
+
+      - company: Technische Universität München (TUM)
+        position: SNSF PostDoc.Mobility Fellow
+        location: Munich, Germany
+        start_date: 2023-03
+        end_date: 2025-03
+        summary: "Project: \"Dark Matter and Cosmology with Gravitational Lenses\". Advisor: Prof. Sherry Suyu (TUM, MPA). Guest researcher at MPA."
+        highlights: []
+
+      - company: Laboratory of Astrophysics (LASTRO), EPFL
+        position: Postdoc
+        location: Lausanne, Switzerland
+        start_date: 2022-10
+        end_date: 2023-02
+        summary: "Advisor: Prof. Frédéric Courbin (EPFL)."
+        highlights: []
+
+    Education:
+      - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+        location: Lausanne, Switzerland
+        url: https://www.epfl.ch/labs/lastro/
+        area: Astrophysics
+        studyType: PhD
+        start_date: 2018-10
+        end_date: 2022-09
+        courses: ""
+        highlights:
+          - 'Thesis: "Next generation modeling techniques for strong gravitational lensing and measuring the Hubble constant"'
+          - "Supervisors: Prof. Frédéric Courbin (EPFL) & Dr. Jean-Luc Starck (CEA Saclay)"
+
+      - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+        location: Lausanne, Switzerland
+        area: Physics
+        studyType: Master of Science
+        start_date: 2016-09
+        end_date: 2018-07
+        courses: "Minor in Computational Science and Engineering"
+        highlights:
+          - 'Thesis: "Assessing the reliability of strong lensing modeling tools for time delay cosmography" — supervisor: Prof. Frédéric Courbin (EPFL)'
+          - 'Minor thesis: "Active Contour for Jointly Segmentation of Multiple Cells" — supervisor: Prof. Michael Unser (EPFL)'
+
+      - institution: EPFL (École Polytechnique Fédérale de Lausanne)
+        location: Lausanne, Switzerland
+        area: Physics
+        studyType: Bachelor of Science
+        start_date: 2012-09
+        end_date: 2016-07
+        courses: ""
+        highlights: []
+
+    Teaching & Supervision:
+      - company: EPFL
+        position: Co-supervisor
+        location: Lausanne, Switzerland
+        start_date: 2023
+        end_date: present
+        summary: Co-supervising a PhD student and two bachelor students.
+        highlights: []
+
+      - company: Master-level course (host institution)
+        position: Teaching Assistant & Substitute Lecturer
+        location: ""
+        start_date: 2023
+        end_date: present
+        summary: ""
+        highlights: []
+
+      - company: EPFL
+        position: Research Project Supervisor
+        location: Lausanne, Switzerland
+        start_date: 2019
+        end_date: 2022
+        summary: Supervised 8 EPFL Master's students across internships, semester projects, and full-year theses.
+        highlights: []
+
+      - company: EPFL
+        position: Teaching Assistant
+        location: Lausanne, Switzerland
+        start_date: 2016
+        end_date: 2022
+        summary: Teaching assistant for 6 courses in general physics, chemistry, and astrophysics.
+        highlights: []
+
+    Service:
+      - company: Research group / ORIGINS Cluster of Excellence
+        position: Meeting & Conference Organizer
+        location: Munich, Germany
+        start_date: 2022
+        end_date: present
+        summary: ""
+        highlights:
+          - Main organizer of the research group's regular seminars, discussion sessions, and journal clubs
+          - Co-organizer of the "Lensing Day" conference, in collaboration with the ORIGINS Cluster of Excellence, gathering researchers from across the Munich region
+          - Co-creator and co-organizer of the MPA Strong Lensing Journal Club
+          - Co-organizer of various collaboration meetings (e.g., TDCOSMO, Euclid)
+
+      - company: Astronomy & Astrophysics (A&A), MNRAS
+        position: Peer Reviewer
+        location: ""
+        start_date: ""
+        end_date: ""
+        summary: Referee for Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
+        highlights: []
+
+    Observing Experience:
+      - company: Leonhard Euler Telescope, La Silla, Chile
+        position: Observer
+        location: Chile
+        start_date: 2018-06
+        end_date: 2022-01
+        summary: Monitoring of lensed quasars and spectroscopy for exoplanet research.
+        highlights: []
+
+      - company: Nordic Optical Telescope (NOT-ALFOSC), La Palma, Spain
+        position: Observer
+        location: Spain
+        start_date: 2019-11
+        end_date: 2019-11
+        summary: Spectroscopy for confirmation of newly discovered lensed quasars.
+        highlights: []
+
+      - company: Vatican Advanced Technology Telescope (VATT), Arizona, USA
+        position: Observer
+        location: USA
+        start_date: 2019-10
+        end_date: 2019-10
+        summary: Test imaging for monitoring of lensed quasars.
+        highlights: []
+
+      - company: ESO/MPG 2.2m Telescope, La Silla, Chile
+        position: Observer
+        location: Chile
+        start_date: 2018-06
+        end_date: 2018-06
+        summary: Monitoring of lensed quasars.
+        highlights: []
+
+    Skills:
+      - name: Programming
+        level: ""
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Java, HTML/CSS, LaTeX"
+
+      - name: Astronomical software
+        level: ""
+        icon: fa-solid fa-satellite
+        keywords: "DS9, QFitsView, SExtractor, Astropy, pPXF, Herculens (developer), Lenstronomy (significant contributor), STARRED (contributor)"
+
+      - name: Scientific computing
+        level: ""
+        icon: fa-solid fa-microchip
+        keywords: "JAX, TensorFlow, high performance computing"
+
+      - name: Other skills
+        level: ""
+        icon: fa-solid fa-pen-nib
+        keywords: "Astronomical observations & data analysis, software development, visual communication, graphic design, website development"
+
+    Languages:
+      - name: French
+        summary: "Native"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: German
+        summary: "B1"
+
+    Interests:
+      - name: Racket sports & team sports
+        icon: fa-solid fa-table-tennis-paddle-ball
+        keywords: ""
+
+      - name: Astro- & landscape photography
+        icon: fa-solid fa-camera-retro
+        keywords: ""
