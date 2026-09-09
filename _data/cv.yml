@@ -91,92 +91,92 @@ cv:
         courses: ""
         highlights: []
 
-    Teaching & Supervision:
-      - company: EPFL
-        position: Co-supervisor
-        location: Lausanne, Switzerland
-        start_date: 2023
-        end_date: present
-        summary: Co-supervising a PhD student and two bachelor students.
-        highlights: []
+    # Teaching & Supervision:
+    #   - company: EPFL
+    #     position: Co-supervisor
+    #     location: Lausanne, Switzerland
+    #     start_date: 2023
+    #     end_date: present
+    #     summary: Co-supervising a PhD student and two bachelor students.
+    #     highlights: []
 
-      - company: Master-level course (host institution)
-        position: Teaching Assistant & Substitute Lecturer
-        location: ""
-        start_date: 2023
-        end_date: present
-        summary: ""
-        highlights: []
+    #   - company: Master-level course (host institution)
+    #     position: Teaching Assistant & Substitute Lecturer
+    #     location: ""
+    #     start_date: 2023
+    #     end_date: present
+    #     summary: ""
+    #     highlights: []
 
-      - company: EPFL
-        position: Research Project Supervisor
-        location: Lausanne, Switzerland
-        start_date: 2019
-        end_date: 2022
-        summary: Supervised 8 EPFL Master's students across internships, semester projects, and full-year theses.
-        highlights: []
+    #   - company: EPFL
+    #     position: Research Project Supervisor
+    #     location: Lausanne, Switzerland
+    #     start_date: 2019
+    #     end_date: 2022
+    #     summary: Supervised 8 EPFL Master's students across internships, semester projects, and full-year theses.
+    #     highlights: []
 
-      - company: EPFL
-        position: Teaching Assistant
-        location: Lausanne, Switzerland
-        start_date: 2016
-        end_date: 2022
-        summary: Teaching assistant for 6 courses in general physics, chemistry, and astrophysics.
-        highlights: []
+    #   - company: EPFL
+    #     position: Teaching Assistant
+    #     location: Lausanne, Switzerland
+    #     start_date: 2016
+    #     end_date: 2022
+    #     summary: Teaching assistant for 6 courses in general physics, chemistry, and astrophysics.
+    #     highlights: []
 
-    Service:
-      - company: Research group / ORIGINS Cluster of Excellence
-        position: Meeting & Conference Organizer
-        location: Munich, Germany
-        start_date: 2022
-        end_date: present
-        summary: ""
-        highlights:
-          - Main organizer of the research group's regular seminars, discussion sessions, and journal clubs
-          - Co-organizer of the "Lensing Day" conference, in collaboration with the ORIGINS Cluster of Excellence, gathering researchers from across the Munich region
-          - Co-creator and co-organizer of the MPA Strong Lensing Journal Club
-          - Co-organizer of various collaboration meetings (e.g., TDCOSMO, Euclid)
+    # Service:
+    #   - company: Research group / ORIGINS Cluster of Excellence
+    #     position: Meeting & Conference Organizer
+    #     location: Munich, Germany
+    #     start_date: 2022
+    #     end_date: present
+    #     summary: ""
+    #     highlights:
+    #       - Main organizer of the research group's regular seminars, discussion sessions, and journal clubs
+    #       - Co-organizer of the "Lensing Day" conference, in collaboration with the ORIGINS Cluster of Excellence, gathering researchers from across the Munich region
+    #       - Co-creator and co-organizer of the MPA Strong Lensing Journal Club
+    #       - Co-organizer of various collaboration meetings (e.g., TDCOSMO, Euclid)
 
-      - company: Astronomy & Astrophysics (A&A), MNRAS
-        position: Peer Reviewer
-        location: ""
-        start_date: ""
-        end_date: ""
-        summary: Referee for Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
-        highlights: []
+    #   - company: Astronomy & Astrophysics (A&A), MNRAS
+    #     position: Peer Reviewer
+    #     location: ""
+    #     start_date: ""
+    #     end_date: ""
+    #     summary: Referee for Astronomy & Astrophysics and Monthly Notices of the Royal Astronomical Society.
+    #     highlights: []
 
-    Observing Experience:
-      - company: Leonhard Euler Telescope, La Silla, Chile
-        position: Observer
-        location: Chile
-        start_date: 2018-06
-        end_date: 2022-01
-        summary: Monitoring of lensed quasars and spectroscopy for exoplanet research.
-        highlights: []
+    # Observing Experience:
+    #   - company: Leonhard Euler Telescope, La Silla, Chile
+    #     position: Observer
+    #     location: Chile
+    #     start_date: 2018-06
+    #     end_date: 2022-01
+    #     summary: Monitoring of lensed quasars and spectroscopy for exoplanet research.
+    #     highlights: []
 
-      - company: Nordic Optical Telescope (NOT-ALFOSC), La Palma, Spain
-        position: Observer
-        location: Spain
-        start_date: 2019-11
-        end_date: 2019-11
-        summary: Spectroscopy for confirmation of newly discovered lensed quasars.
-        highlights: []
+    #   - company: Nordic Optical Telescope (NOT-ALFOSC), La Palma, Spain
+    #     position: Observer
+    #     location: Spain
+    #     start_date: 2019-11
+    #     end_date: 2019-11
+    #     summary: Spectroscopy for confirmation of newly discovered lensed quasars.
+    #     highlights: []
 
-      - company: Vatican Advanced Technology Telescope (VATT), Arizona, USA
-        position: Observer
-        location: USA
-        start_date: 2019-10
-        end_date: 2019-10
-        summary: Test imaging for monitoring of lensed quasars.
-        highlights: []
+    #   - company: Vatican Advanced Technology Telescope (VATT), Arizona, USA
+    #     position: Observer
+    #     location: USA
+    #     start_date: 2019-10
+    #     end_date: 2019-10
+    #     summary: Test imaging for monitoring of lensed quasars.
+    #     highlights: []
 
-      - company: ESO/MPG 2.2m Telescope, La Silla, Chile
-        position: Observer
-        location: Chile
-        start_date: 2018-06
-        end_date: 2018-06
-        summary: Monitoring of lensed quasars.
-        highlights: []
+    #   - company: ESO/MPG 2.2m Telescope, La Silla, Chile
+    #     position: Observer
+    #     location: Chile
+    #     start_date: 2018-06
+    #     end_date: 2018-06
+    #     summary: Monitoring of lensed quasars.
+    #     highlights: []
 
     Skills:
       - name: Programming

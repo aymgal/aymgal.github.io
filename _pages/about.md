@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher · Department of Astronomy, University of Geneva (UNIGE)
+subtitle: Postdoctoral researcher based in Switzerland
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Department of Astronomy</p>
     <p>University of Geneva</p>
-    <p>Geneva, Switzerland</p>
+    <p>Switzerland</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -39,6 +39,6 @@ My research focuses on **strong gravitational lensing**: using the distorted, mu
 
 Before joining UNIGE, I held postdoctoral positions at the [Max Planck Institute for Astrophysics (MPA)](https://www.mpa-garching.mpg.de/) and the [Technical University of Munich (TUM)](https://www.tum.de/) (2022–2025, including a first SNSF Postdoc.Mobility fellowship), and at the [Laboratory of Astrophysics (LASTRO), EPFL](https://www.epfl.ch/labs/lastro/) (2022–2023). I completed my PhD at LASTRO, EPFL in 2022, working on next-generation modeling techniques for strong gravitational lensing and measuring the Hubble constant, under the supervision of Prof. Frédéric Courbin (EPFL) and Dr. Jean-Luc Starck (CEA Saclay).
 
-I am a member of the [COSMOGRAIL](https://www.epfl.ch/labs/lastro/scientific-activities/cosmograil/) and [TDCOSMO](https://tdcosmo.github.io/) collaborations, the [Euclid Consortium](https://www.euclid-ec.org/), and the [SLICE](https://slicejwst.github.io/) project.
+I am a member of the COSMOGRAIL and TDCOSMO collaborations, the [Euclid Consortium](https://www.euclid-ec.org/), and the [SLICE](https://slicejwst.github.io/) project.
 
 Outside of research, I enjoy racket sports and [astro- and landscape photography](https://www.aymericgalan.com).
